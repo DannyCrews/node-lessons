@@ -1,0 +1,21 @@
+{
+  "name": "@dannycrews/how-to-npm",
+  "version": "1.0.3",
+  "description": "npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyCrews/npm-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyCrews/npm-practice/issues"
+  },
+  "homepage": "https://github.com/DannyCrews/npm-practice#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
