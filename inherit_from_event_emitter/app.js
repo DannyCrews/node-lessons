@@ -3,6 +3,7 @@ var util = require('util');
 
 // a function constructor
 function Greetr() {
+  EventEmitter.call(this);
   this.greeting = 'Hello world!';
 }
 
